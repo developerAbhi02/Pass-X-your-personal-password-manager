@@ -1,0 +1,38 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8fafc; /* Light background */
+    color: #374151; /* Dark text color */
+}
+
+/* Container for main content */
+.mycontainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Button Styles */
+button {
+    cursor: pointer;
+}
+
+/* Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.items-center {
+    align-items: center;
+}
+
+/* Add more styles as needed */

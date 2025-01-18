@@ -1,0 +1,10 @@
+{
+  "name": "Pass-X",
+  "short_name": "Pass-X",
+  "theme_color": "#15803d",
+  "background_color": "#0f1520",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+} 

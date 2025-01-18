@@ -1,0 +1,15 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table td,
+.table th {
+  padding: 8px;
+  text-align: left;
+}
+
+.action-cell {
+  display: flex;
+  gap: 20px;
+} 
